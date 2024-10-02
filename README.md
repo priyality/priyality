@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Priya, but you can call me Speed
-- 👀 I’m interested in all things design and product
-- 🌱 I’m currently learning frontend web development from scratch
 - 📫 How to reach me - https://www.twitter.com/itsspeedd
 
 <!---

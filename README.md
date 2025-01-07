@@ -1,4 +1,4 @@
-- 📫 How to reach me - https://www.twitter.com/itsspeedd
+- 📫 How to reach me - https://www.x.com/itsspeedd
 
 <!---
 spriyak02/spriyak02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
